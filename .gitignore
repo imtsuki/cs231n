@@ -1,0 +1,5 @@
+.DS_Store
+ziped/*
+*.pdf
+*.zip
+.vscode/
