@@ -1,0 +1,8 @@
+
+
+## `bincount`
+
+## `argsort`
+
+## `argmax`
+
