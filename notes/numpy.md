@@ -6,3 +6,5 @@
 
 ## `argmax`
 
+## np.add.at
+
